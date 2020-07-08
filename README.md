@@ -1,4 +1,4 @@
-**Behold! The ML chatter-> https://bot.dialogflow.com/MLchatbot**
+**Behold! The ML chatbot-> https://bot.dialogflow.com/MLchatbot**
 
 This is a conversational AI that I made using dialogflow which I tuned to cater computer Science questions. Ofcourse it is a work in progress (We are talking about ML topics! Never ending..i know right!).
 

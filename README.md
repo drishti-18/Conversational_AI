@@ -1,2 +1,2 @@
-# conversational_AI
+# Conversational_AI
 Built a conversational AI using Google's Dialogflow
